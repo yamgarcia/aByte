@@ -1,4 +1,4 @@
-# aByte Codi Test
+# aByte Code Test
 
 ## Backend<br/>
 ### run "npm start" from the <b>backend<b/> folder
